@@ -1,13 +1,11 @@
 ---
 title: 우당탕탕 블로그 만들기
 tags: Blog GithubPage
-article_header: such a hard work 😈
+article_header: such a hard work 
   type: cover
   image:
     src: /pictures/network.jpg
 ---
-
-<!--more-->
 
 ## Git hub
 
