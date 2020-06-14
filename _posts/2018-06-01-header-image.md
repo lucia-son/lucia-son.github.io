@@ -1,6 +1,6 @@
 ---
-title: Post with Header Image
-tags: TeXt
+title: 우당탕탕 블로그 만들기
+tags: Blog making, blog
 article_header:
   type: cover
   image:
