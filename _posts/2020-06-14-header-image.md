@@ -1,6 +1,7 @@
 ---
+layout: article
 title: 우당탕탕 블로그 만들기
-tags: Blog GithubPage
+tags: [Blog, GithubPage]
 ---
 
 ## Git hub
